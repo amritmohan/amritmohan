@@ -1,6 +1,6 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🌱 I’m currently learning **Spring Boot, Android**
+- 🌱 I’m currently learning **Spring Boot, Android, React**
 
 - 💬 Ask me about **react, java, spring boot, html, css, javascript**
 
